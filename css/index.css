@@ -283,8 +283,10 @@ li {
 footer ul {
     display: flex;
     gap: 2rem;
+    margin: 1rem;
 }
 
 footer ul li a i {
+    font-size: 2rem !important;
     color: var(--primeWhite);
 }
